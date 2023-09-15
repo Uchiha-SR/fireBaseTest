@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "191079388119",
+    "firebase_url": "https://superest-compose-6f618-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "superest-compose-6f618",
+    "storage_bucket": "superest-compose-6f618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191079388119:android:ed878882365a161dc2b192",
+        "android_client_info": {
+          "package_name": "dev.android.superest_compose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191079388119-b1kpl0c2oj0ll60se48d052dh8o4hc0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.android.superest_compose",
+            "certificate_hash": "2055a14c5ccd80b9d01cc9ea5e351c1265644818"
+          }
+        },
+        {
+          "client_id": "191079388119-64pr5tf79ihv89abqhih27ua3g74nk09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIa50xtmXbtsiwWW5xzLimv8LF2a-ob68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191079388119-5sbkehk8j0vtfr59ileoun22blrie1uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
